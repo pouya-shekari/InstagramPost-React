@@ -1,4 +1,4 @@
-# InstagrsmPost-React
+# InstagramPost-React
 
 first install packeges with write **npm install** in terminal.
 
